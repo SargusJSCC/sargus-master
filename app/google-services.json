@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73904162455",
+    "firebase_url": "https://testquick-3104f-default-rtdb.firebaseio.com",
+    "project_id": "testquick-3104f",
+    "storage_bucket": "testquick-3104f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73904162455:android:c38dcb187c495ecd0c8bd2",
+        "android_client_info": {
+          "package_name": "com.example.sargus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73904162455-3c7p72a9k26lkdg4nrbjre8q3602muid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmVCwosOSpPgQ17PVt1q4hoQOQ4BnDo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73904162455-3c7p72a9k26lkdg4nrbjre8q3602muid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

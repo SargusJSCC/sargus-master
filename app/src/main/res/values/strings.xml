@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">Sargus - Kotlin</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="please_enter_email_id">Please Enter Email ID</string>
+    <string name="firebase_authentication_login">Firebase Authentication Login</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="details">Details</string>
+    <string name="list_of_repos">List of Repos</string>
+    <string name="web_view">Web View</string>
+
+
+    <string name="edit_text_search">Buscar usuario</string>
+    <string name="btn_view_posts">Ver publicaciones</string>
+    <string name="btn_view_comments">Ver comentarios</string>
+    <string name="generic_message_progress">Por favor espere...</string>
+    <string name="generic_error">Ha ocurrido un error inesperado</string>
+    <string name="accept">Aceptar</string>
+    <string name="list_is_empty">List is empty</string>
+
+</resources>
